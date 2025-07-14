@@ -1,0 +1,148 @@
+{
+  "patients": [
+    {
+      "id": 1,
+      "identityNumber": "12345678901",
+      "fullName": "Ahmet Yılmaz",
+      "birthDate": "1990-01-15",
+      "gender": "Erkek",
+      "phone": "05321234567",
+      "city": "İstanbul",
+      "district": "Kadıköy",
+      "department": "Kardiyoloji"
+    },
+    {
+      "id": 2,
+      "identityNumber": "23456789012",
+      "fullName": "Ayşe Demir",
+      "birthDate": "1987-06-22",
+      "gender": "Kadın",
+      "phone": "05331234567",
+      "city": "Ankara",
+      "district": "Çankaya",
+      "department": "Nöroloji"
+    },
+    {
+      "id": 3,
+      "identityNumber": "34567890123",
+      "fullName": "Mehmet Kaya",
+      "birthDate": "1983-04-10",
+      "gender": "Erkek",
+      "phone": "05341234567",
+      "city": "İzmir",
+      "district": "Konak",
+      "department": "Dermatoloji"
+    },
+    {
+      "id": 4,
+      "identityNumber": "45678901234",
+      "fullName": "Fatma Aydın",
+      "birthDate": "1995-12-01",
+      "gender": "Kadın",
+      "phone": "05351234567",
+      "city": "Bursa",
+      "district": "Nilüfer",
+      "department": "Çocuk Hastalıkları"
+    },
+    {
+      "id": 5,
+      "identityNumber": "56789012345",
+      "fullName": "Hasan Koç",
+      "birthDate": "1979-08-18",
+      "gender": "Erkek",
+      "phone": "05361234567",
+      "city": "Antalya",
+      "district": "Muratpaşa",
+      "department": "Ortopedi"
+    }
+  ],
+  "doctors": [
+    {
+      "id": 1,
+      "fullName": "Dr. Zeynep Çelik",
+      "phone": "05051234567",
+      "email": "zeynep.celik@hastane.com",
+      "department": "Kardiyoloji"
+    },
+    {
+      "id": 2,
+      "fullName": "Dr. Murat Şahin",
+      "phone": "05061234567",
+      "email": "murat.sahin@hastane.com",
+      "department": "Nöroloji"
+    },
+    {
+      "id": 3,
+      "fullName": "Dr. Elif Karaca",
+      "phone": "05071234567",
+      "email": "elif.karaca@hastane.com",
+      "department": "Dermatoloji"
+    },
+    {
+      "id": 4,
+      "fullName": "Dr. Ali Yıldız",
+      "phone": "05081234567",
+      "email": "ali.yildiz@hastane.com",
+      "department": "Çocuk Hastalıkları"
+    },
+    {
+      "id": 5,
+      "fullName": "Dr. Selin Arı",
+      "phone": "05091234567",
+      "email": "selin.ari@hastane.com",
+      "department": "Ortopedi"
+    }
+  ],
+  "branches": [
+    {
+      "id": 1,
+      "branchName": "Kadıköy Diş Kliniği",
+      "branchCode": "KD-001",
+      "specialty": "Diş Kliniği",
+      "phone": "02165556677",
+      "city": "İstanbul",
+      "district": "Kadıköy",
+      "note": "Hafta içi açık"
+    },
+    {
+      "id": 2,
+      "branchName": "Çankaya Estetik Merkezi",
+      "branchCode": "CA-002",
+      "specialty": "Estetik Cerrahi",
+      "phone": "03124445566",
+      "city": "Ankara",
+      "district": "Çankaya",
+      "note": "Randevu ile çalışır"
+    },
+    {
+      "id": 3,
+      "branchName": "Konak Çocuk Sağlığı",
+      "branchCode": "KP-003",
+      "specialty": "Çocuk Hastalıkları",
+      "phone": "02324445566",
+      "city": "İzmir",
+      "district": "Konak",
+      "note": "Hafta sonu açık"
+    },
+    {
+      "id": 4,
+      "branchName": "Nilüfer Deri Merkezi",
+      "branchCode": "NSC-004",
+      "specialty": "Dermatoloji",
+      "phone": "02244445566",
+      "city": "Bursa",
+      "district": "Nilüfer",
+      "note": "Resmi tatillerde kapalı"
+    },
+    {
+      "id": 5,
+      "branchName": "Muratpaşa Kemik Merkezi",
+      "branchCode": "MBC-005",
+      "specialty": "Ortopedi",
+      "phone": "02424445566",
+      "city": "Antalya",
+      "district": "Muratpaşa",
+      "note": "Acil servis mevcut"
+    }
+  ]
+}
